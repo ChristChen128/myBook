@@ -1,4 +1,4 @@
-# 第九章 MyBatis
+# 九、 MyBatis
 
 **9.1 MyBatis的工作原理：**
 

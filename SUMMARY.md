@@ -13,7 +13,7 @@
 * [六、异常与异常处理](liu-yi-chang-yu-yi-chang-chu-li.md)
 * [七、数据库](qi-shu-ju-ku.md)
 * [八、Spring框架](ba-spring-kuang-jia.md)
-* [第九章 MyBatis](di-jiu-zhang-mybatis.md)
+* [九、 MyBatis](di-jiu-zhang-mybatis.md)
 * [十、网络](shi-wang-luo.md)
 * [十一、SpringBoot](shi-yi-springboot.md)
 * [十二、IO](shi-er-io.md)
